@@ -1,5 +1,6 @@
-#
-sadbot is a tooling _to sadbot_ (someone/"somebot") from accomplishing an action in a given resource, it blocks, throttles and time-restricts the access like a security guard guy when the party is packed or you're not so sober to be welcome. 
+# SadBot 🤖
+
+SadBot is a tooling _to thwart_ (someone/"somebot") from accomplishing an action in a given resource, it blocks, throttles and time-restricts the access like a security guard guy when the party is packed or you're not so sober to be welcome. 
 
 But he is not that kind of weightlifter-beast on steroids that snorts vanilla whey protein throughout the day... instead he respects the rules and politely allows or denies it, no beat. He relies on HA Redis where the metadata is managed.
 
